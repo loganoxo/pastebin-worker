@@ -27,7 +27,7 @@ id = "1f34296985ba4cc2ab59fe6e33b66814"  # id of your KV namespace
 BASE_URL = "https://pb.1357810.xyz"
 
 # url to repo, displayed in the index page
-REPO = "https://github.com/loganoxo/pastebin-worker"
+REPO = "https://github.com/loganoxo/pastebin-worker/tree/mine"
 
 # url to the favicon
 FAVICON = "https://sharzy.in/favicon-32x32.png"
