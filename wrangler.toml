@@ -30,7 +30,7 @@ BASE_URL = "https://pb.1357810.xyz"
 REPO = "https://github.com/loganoxo/pastebin-worker/tree/mine"
 
 # url to the favicon
-FAVICON = "https://sharzy.in/favicon-32x32.png"
+FAVICON = "https://logan.1357810.xyz/icon/pastebin.png"
 
 # the name displayed in TOS
 # TOS_MAINTAINER = "Sharzy"
